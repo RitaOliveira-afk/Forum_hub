@@ -15,39 +15,38 @@
   </p>
 
 <h2>Objetivos do projeto</h2>
-<ul>
-<li>Desenvolvimento de APIs REST</li>
-<li>Autenticação e autorização com JWT</li>
-<li>Estruturação de aplicações backend profissionais</li>
-<li>Boas práticas com Spring Boot</li>
-</ul>
+  <ul>
+    <li>Desenvolvimento de APIs REST</li>
+    <li>Autenticação e autorização com JWT</li>
+    <li>Estruturação de aplicações backend profissionais</li>
+    <li>Boas práticas com Spring Boot</li>
+  </ul>
 
 <h2>Tecnologias utilizadas</h2>
-<ul>
-  <li>Java</li>
-  <li> Spring Boot</li>
-  <li>Spring Data JPA/Hibernate</li>
-  <li>Insominia</li>
-  <li>PostgreSQL</li>
-  <li> Maven</li>
-  <li>API Gutendex</li>
-  <li>FlyWay</li>
-  <li>Migration</li>
-  <li>Spring Security</li>
-  
-</ul>
+  <ul>
+    <li>Java</li>
+    <li> Spring Boot</li>
+    <li>Spring Data JPA/Hibernate</li>
+    <li>Insominia</li>
+    <li>PostgreSQL</li>
+    <li> Maven</li>
+    <li>API Gutendex</li>
+    <li>FlyWay</li>
+    <li>Migration</li>
+    <li>Spring Security</li>
+  </ul>
 
 <h2>Funcionalidades</h2>
-
-  <li>Cadastro de usuários</li>
-  <li>Cadastro de Tópicos</li>
-  <li>Autenticação com geração de Token JWT</li>
-  <li>Deletar tópicos</li>
-  <li>Atualização de tópicos</li>
-  <li>Listagem de tópicos</li>
+  <ul>
+    <li>Cadastro de usuários</li>
+    <li>Cadastro de Tópicos</li>
+    <li>Autenticação com geração de Token JWT</li>
+    <li>Deletar tópicos</li>
+    <li>Atualização de tópicos</li>
+    <li>Listagem de tópicos</li>
+   </ul>
 
 <h2>Sugestões</h2>
-
 <p>
   Fiquem à vontade para mandar Sugestões.
 </p>
